@@ -9,9 +9,9 @@ import UgcGallery from "./components/UgcGallery";
 
 function App() {
   //Instance ID
-  let InstanceId_Widget = "";
+  let InstanceId_Widget = "1186718";
   let InstanceId_QA = "";
-  let InstanceId_SEO = "1220203";
+  let InstanceId_SEO = "";
   let InstanceId_Carousel = "";
   let InstanceId_StarRating = "";
   let InstanceId_PromotedProd = "";
@@ -19,7 +19,7 @@ function App() {
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "";
+  let ProductId = "ncclasfourcan";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
