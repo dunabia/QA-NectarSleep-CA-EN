@@ -19,7 +19,7 @@ function App() {
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "ncclasmattress";
+  let ProductId = "ncchilcan";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
